@@ -66,6 +66,11 @@ body.main.overflow {
     padding: 20px 0 0 30px;
   }
 }
+@media screen and (max-width: 991px) {
+  .header .header-content-and-btn {
+    gap: 1.5rem;
+  }
+}
 @media screen and (max-width: 575px) {
   .header .header-content-and-btn {
     width: 70%;

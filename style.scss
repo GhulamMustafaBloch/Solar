@@ -54,6 +54,9 @@ body.main.overflow{
             gap: 1.5rem;
             padding:20px 0 0 30px;
         }
+        @media screen and (max-width: 991px) {
+            gap: 1.5rem;
+        }
         @media screen and (max-width: 575px) {
             width: 70%;
         }
