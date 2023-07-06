@@ -43,7 +43,7 @@ body.main.overflow{
         @media screen and (max-width: 767px) {
             position: fixed;
             width: 50%;
-            height: 600px;
+            height: 100vh;
             background: $primaryColor;
             top: 0;
             right: -100%;

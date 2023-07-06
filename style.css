@@ -54,7 +54,7 @@ body.main.overflow {
   .header .header-content-and-btn {
     position: fixed;
     width: 50%;
-    height: 600px;
+    height: 100vh;
     background: #363636;
     top: 0;
     right: -100%;
